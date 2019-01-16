@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+  <object Name="Creature" Load="Merge">
+    <part Name="HarmonyShim_Noop"></part>
+  </object>
+</objects>
